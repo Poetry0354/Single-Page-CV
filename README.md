@@ -22,3 +22,5 @@ Etiquetas OG para compartir mejor en las redes sociales.
 Un favicon vinculado en la sección de encabezado.
 
 Al completar este proyecto, obtendrá una sólida comprensión de cómo crear un CV de una sola página usando HTML, aplicar principios básicos de SEO y preparar su página web para un diseño futuro. Esta base le permitirá avanzar en el diseño del CV usando CSS en proyectos posteriores.
+#Referencia.
+https://roadmap.sh/projects/single-page-cv
